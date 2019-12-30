@@ -1,6 +1,6 @@
-#Ref: Author Berkeley DeepDrive
-#Official Evaluation Script  for Drivable Area
-#Modified by Piyush Vyas for LaneNet: Drivable Area Segmentation
+# Ref: Author Berkeley DeepDrive
+# Official Evaluation Script for Drivable Area Segmentation Task
+
 import argparse
 import json
 import os
